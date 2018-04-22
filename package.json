@@ -1,0 +1,17 @@
+{
+  "name": "bodycounter",
+  "version": "1.0.0",
+  "description": "Visualize huge amounts of people",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "people"
+  ],
+  "author": "poppijanne",
+  "license": "ISC"
+}
